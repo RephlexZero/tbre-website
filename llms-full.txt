@@ -1,0 +1,986 @@
+# Team Bath Racing Electric
+
+> Team Bath Racing Electric (TBRe) is a student-run Formula Student team at the University of Bath that designs, builds, and races a fully electric single-seater racing car.
+
+Site: https://teambathracingelectric.com
+
+## Cars
+
+### TBRe26 (2026)
+
+Specifications:
+
+- Weight: 230 kg
+- Top Speed: 120 km/h
+- Wheelbase: 1525 mm
+- Track Width: 1200 mm
+- Suspension: Double Wishbone
+- Aerodynamics: Full Package
+- Battery: 400V System
+- Motors: 4 x 20kW
+
+### TBRe25 (2025)
+
+Specifications:
+
+- Weight: 230 kg
+- Top Speed: 120 km/h
+- Wheelbase: 1525 mm
+- Track Width: 1200 mm
+- Suspension: Double Wishbone
+- Aerodynamics: Full Package
+- Battery: 400V System
+- Motors: 4 x 20kW
+
+### TBRe24 (2024)
+
+Specifications:
+
+- Weight: 230 kg
+- Top Speed: 120 km/h
+- Wheelbase: 1525 mm
+- Track Width: 1200 mm
+- Suspension: Double Wishbone
+- Aerodynamics: Full Package
+- Battery: 400V System
+- Motors: 4 x 20kW
+
+### TBRe23 (2023)
+
+Specifications:
+
+- Weight: 230 kg
+- Top Speed: 120 km/h
+- Wheelbase: 1525 mm
+- Track Width: 1200 mm
+- Suspension: Double Wishbone
+- Aerodynamics: Full Package
+- Battery: 400V System
+- Motors: 4 x 20kW
+
+### TBRe22 (2022)
+
+In 2022, the team focused on reliability.
+  This drove us towards a steel space frame chassis, and the familiar to TBRe, single rear motor powertrain layout.
+  The car incorporated an overhauled vehicle dynamics package and a revised electronics system.
+
+  TBRe22 also saw the team run at competition with an aerodynamics package for the first time.
+
+  A new accumulator was designed and constructed and utilised additive manufacturing and composite materials to produce a very energy-dense and lightweight accumulator, capable of delivering the competition limit of 80kW without running into thermal limits and only weighing ~45kg.
+
+  The TBRe 2022 vehicle utilised an Emrax 228 axial flux electric machine paired with an Emsiso H300 inverter. This allowed the deployment of the full competition limit of 80kW with both the motor and inverter capable of power output far higher. The tunability of the control system was also greatly improved over previous inverters used within TBRe with the ability to interface and characterise the inverter's gains in far more detail with far more precision.
+
+  The car's best acceleration event at the Spanish competition was a 4.02-second run, made possible thanks to the ability to extract close to the competition limit of power, lightweight design weighing in at 221kg even with a 7.5kWh accumulator and a combination of the aerodynamics and vehicle dynamics packages being optimised further and in greater detail.
+
+  At all competitions, the accumulator was able to pass scrutineering first time, showing TBRe's aptitude in battery pack design. This year's accumulator built on the work of previous designs, sticking with the same configuration of 102s 7p Sony Murata VTC6s provided by our title sponsor, Electroflight. The airflow paths, 3D printed cell carriers, PCBs and electronics were all optimised in the revised design, housed within a kevlar casing utilising fire retardant epoxy.
+
+  The electrical systems followed suit in scrutineering, typically only needing a few adjustments in order to pass scrutineering thanks to the robust systems that have been iterated within the team for the last few years. Leveraging the in-house manufacturing capability the team has, reflow ovens, solder work stations and testing equipment, the electrical systems were able to be mostly sent for PCB manufacture in December/January with PCB assembly and testing taking place soon after the blank PCBs returned from our sponsor PCB train. This allowed early bench testing of the full electrical system in the lab and fault finding to occur early ensuring the system was reliable by the time the rest of the car was ready.
+
+  The vehicle dynamics were reengineered from the ground up, with a focus on modelling and tolerancing the system so it would perform exactly as intended when implemented. Comments were made by commentators at the 2022 FSUK event that this was “the best vehicle dynamics package seen from the team yet”.
+
+  The aerodynamics package designed for the 2022 car utilised CFD and composite manufacture that meant the team had to do a lot of learning quickly to meet the tight deadlines of Formula Student. Leveraging the knowledge of our sister team, TBR, and the very capable technicians available to us at the university, we were able to pick up composites skills and develop aerofoils to be used in the first rules-compliant aerodynamics package the team has made. Analysis of the design was done with CFD for all iterations of the aerodynamics package as it went through the manufacturing process.
+
+  Overall, the 2022 season was the most successful in TBRe's history, with fantastic results across multiple competitions outlined below:
+
+Specifications:
+
+- Weight: 230 kg
+- Top Speed: 120 km/h
+- Wheelbase: 1525 mm
+- Track Width: 1200 mm
+- Suspension: Double Wishbone
+- Aerodynamics: Full Package
+- Battery: 400V System
+- Motors: 4 x 20kW
+
+Results:
+
+- FS UK: 
+      Our home competition, Formula Student UK is organised by the IMechE and runs at Silverstone international race circuit.
+      This year, the team achieved the title of top UK-based EV team - a position familiar to TBRe.
+      The team faced many challenges at this competition, but we persevered and passed scrutineering in time to compete in some dynamics events.
+      This helped us secure our position as the UK's top electric formula student team.
+
+      The AI team also did very well at the 2022 formula student, coming away with the overall win after winning many of the static events.
+      
+- FSAE Italy: 
+      The TBRe team competed in two European events in 2022- Italy and Spain.
+      Formula SAE Italy provided many valuable challenges, from logistical challenges (the Italian competition was scheduled for the week after the UK competition) to physical challenges, with an intense heatwave hitting the country.
+      Despite this, the team achieved a fantastic result of 9th overall EV team.
+      
+- FS Spain: 
+      Our second European competition of the season was in Spain.
+      This is a competition known for its fierce competition from the top teams in the world.
+      The team brought an updated car to Spain, with revisions to the vehicle dynamics and aerodynamics systems.
+
+      The team came away from the event with a fantastic 18th-place overall finish.
+      A great way to finish a very successful year for Team Bath Racing Electric.
+      
+
+### TBRe21 (2021)
+
+Due to the effects of the COVID 19 pandemic, the 2021 car was an
+  iteration of the 2019 chassis. The car had a completely overhauled
+  electrical system, improved firewall and adjusted rear packaging,
+  utilising the same powertrain components found in the 2019 car. The team
+  also made its first-ever aerodynamics package that was mounted to the
+  car at the competition but wasn't utilised in the dynamic events. The
+  process of manufacturing these aerofoils allowed the team to expand
+  their knowledge on composites manufacture and transfer that knowledge to
+  future years.
+  <br />
+  <br />
+  With only two and a half months of lab access, the team was very happy
+  to walk away from the competition with two trophies, one for efficiency
+  and another for the cost and manufacture event. The car was by far the
+  fastest electric vehicle on the track, but due to a lack of testing
+  time, the reliability was not good enough to allow the full completion
+  of the endurance event. With a little more tuning and fixing some bugs,
+  this vehicle can form the starting point of a fantastic car capable of
+  competing at the highest levels of the formula student competition.
+  <br />
+  <br />
+  The AI team also did very well at the 2021 formula student, coming away
+  with the overall win after winning all of the static events they
+  entered.
+  <br />
+  <br />
+  The results of the 2021 competition are a testament to what the team can
+  achieve regardless of how tough the circumstances are and looking
+  forward the team is set to continue challenging the best formula student
+  teams in the UK and abroad.
+
+Specifications:
+
+- Weight: 230 kg
+- Top Speed: 120 km/h
+- Wheelbase: 1525 mm
+- Track Width: 1200 mm
+- Suspension: Double Wishbone
+- Aerodynamics: Full Package
+- Battery: 400V System
+- Motors: 4 x 20kW
+
+### TBRe20 (2020)
+
+Specifications:
+
+- Weight: 230 kg
+- Top Speed: 120 km/h
+- Wheelbase: 1525 mm
+- Track Width: 1200 mm
+- Suspension: Double Wishbone
+- Aerodynamics: Full Package
+- Battery: 400V System
+- Motors: 4 x 20kW
+
+### TBRe19 (2019)
+
+The design of the Team Bath Racing Electric 2019 car had a large focus on mass reduction. Through the use of composite materials, a first for the team, 10Kg was saved in the hybrid chassis and a further 25Kg was saved in the accumulator (battery).
+
+This light-weighting of the car had a large impact on the design of the vehicle dynamics allowing for improvements across the board. Thanks to the reliability of the 2018 car, a lot of testing was possible, allowing for data to be collected, analysed and improvements to be implemented on the 2019 car.
+
+The team was targeting a 20% mass reduction, hoping to bring the car under 200kg. At the UK competition, the final weight achieved was 196Kg meaning an almost 23% mass reduction from the 2018 car!
+
+A half monocoque half spaceframe chassis for improved torsional stiffness and mounting locations helped achieve this weight saving with a hybrid backplate and composite steering wheel all shaving weight off the design.
+
+All composite components and moulds were made in house by the team, a massive amount of work when considering this was the first time composites were used in the team's designs.
+
+The new inverter, as well as the teams Emrax 228 motor, meant a total of 700Nm was transferred to the rear wheels. This is thanks to the motors 8Kw per Kg of motor mass.
+
+Another huge innovation made in 2019 was the accumulator design. This consisted of 714 Sony Murata VTC6 18650 cells providing 428.4V and 9.36KWh of energy storage. A combination of advanced material techniques and an optimised design resulted in a 40% mass reduction within a year of development. FDM 3D printing was used to make extremely lightweight and fully optimised sub packs which were surrounded by a composite battery container consisting of a carbon fibre sandwich structure. More safety systems were also integrated into the battery and the higher voltage output also improved the powertrain systems efficiency whilst reducing cabling thickness.
+
+Optimised ECU software and a redesigned CAN bus architecture helped improve the cars control and safety systems with a comprehensive fault monitoring system also being implemented. A fully custom dashboard with an integrated letterbox screen also massively improved the driver environment.
+
+Finally, a lower gear ratio of 3:1 instead of 3.6:1 was implemented due to the torque increase with the new inverter as well as the light-weighting.
+
+Specifications:
+
+- Weight: 230 kg
+- Top Speed: 120 km/h
+- Wheelbase: 1525 mm
+- Track Width: 1200 mm
+- Suspension: Double Wishbone
+- Aerodynamics: Full Package
+- Battery: 400V System
+- Motors: 4 x 20kW
+
+### TBRe18 (2018)
+
+The biggest innovation in the design of the Team Bath Racing Electric 2018 car was the new accumulator (Battery) designed from scratch.
+
+The accumulator consisted of 720 Sony 18650 cells in a 15 series 8 parallel configuration per sub pack. For the 8 cells in parallel, copper busbars that were spot welded to the cells provided a very low resistance path. The 15 cells in series were held with a cell clamping design allowing the sub packs to be easily serviceable by removing and changing cells. This cell configuration provided 378V and 7KWh of energy storage.
+
+The accumulator consisted of 6 sub packs in a steel enclosure and moved to cylindrical cells to improve charging times and packaging. Each sub pack was also no longer high voltage, making them much easier to work on and service. A full thermal management system was also implemented, measuring 238 data points of temperature as well as 90 cell voltages and the currents entering and exiting the accumulator. Two accumulators were built for added redundancy and reliability which was a primary focus for 2018
+
+New centre-lock wheels were used on the 2018 car due to excessive wear being found on the previous design. Bespoke wheel hubs and centre lock nuts were designed to mitigate this.
+
+A redesigned chassis was used, and the 2018 design was the first year to have a chassis designed from scratch that accommodated the electrical powertrain. This new design saved 20Kg compared to the previous years and consisted of a steel spaceframe. The overall length of the car was manufactured to within 1mm of the designs thanks to the use of an aluminium jig during the chassis manufacture.
+
+The battery was moved from the side-pods to just behind the driver, allowing for better vehicle dynamics. The suspension was optimised to lower ground clearance and improve the vehicle dynamics with the centre of mass now vastly different from the previous year.
+
+The powertrain used the same Emrax 228 motor used in 2019, 2020 and 2021 designs with a fixed rear axle which was a simple and reliable design. A gearing ratio of 3.6:1 was used, and Finite Element Analysis was used to optimise the design of each component and reduce weight resulting in a 13% weight saving across the powertrain.
+
+A rapid prototyping ECU was used, and a detailed diagnostic system was implemented in software allowing the ECU to output lots of data for better fault finding and detailed data logging. The electronic system developed for the 2018 design was focused on being safe and reliable, with a wide array of sensors and 7 custom-designed PCBs.
+
+The focus for the 2018 cars design was on reliability and redundancy. A complete redesign of the vehicle was undertaken to achieve this, and it resulted in the most advanced and lightest vehicle that the team had produced to date. This reliability was demonstrated in the FSUK competition when the vehicle passed scrutineering in time for the dynamic events and retained the title of #1 UK electric team.
+
+This redundancy was integral to success and the teams build not buy mentality showed what could be accomplished with commitment and a passion for engineering. The TBRe18 design was highly commended at FSUK, to the extent that it was used as exemplar material for other teams.
+
+Specifications:
+
+- Weight: 230 kg
+- Top Speed: 120 km/h
+- Wheelbase: 1525 mm
+- Track Width: 1200 mm
+- Suspension: Double Wishbone
+- Aerodynamics: Full Package
+- Battery: 400V System
+- Motors: 4 x 20kW
+
+### TBRe17 (2017)
+
+The 2017 team was crowned the UK's No. 1 Electric Formula Student team after an amazing performance at Silverstone in July 2017.
+
+Specifications:
+
+- Weight: 230 kg
+- Top Speed: 120 km/h
+- Wheelbase: 1525 mm
+- Track Width: 1200 mm
+- Suspension: Double Wishbone
+- Aerodynamics: Full Package
+- Battery: 400V System
+- Motors: 4 x 20kW
+
+### TBRe16 (2016)
+
+Specifications:
+
+- Weight: 230 kg
+- Top Speed: 120 km/h
+- Wheelbase: 1525 mm
+- Track Width: 1200 mm
+- Suspension: Double Wishbone
+- Aerodynamics: Full Package
+- Battery: 400V System
+- Motors: 4 x 20kW
+
+## Team
+
+### 2026 Team
+
+**Aerodynamics**
+
+- Alexander Crisan — Aerodynamics Lead (Lead)
+- Callum Hallworth — Senior Aerodynamics Engineer
+- Daniel Price — Cooling Lead
+- Jude Thorne — Aero Structures Lead
+
+**Artificial Intelligence**
+
+- Wenzel Kinsky — AI Lead (Lead)
+- Ben Rall — Senior Software Engineer
+- Harry Crane — Senior Software Engineer
+- Roberta Griffiths — Senior Software Engineer
+- Silvio Xu — Senior Software Engineer
+- Szymon Fladro — Junior Software Engineer
+- Tariq El-Jumaily — Junior Software Engineer
+- Tom Muirhead — Senior Software Engineer
+
+**Business Operations**
+
+- Megan Galloway — Co-Business Operations Lead (Lead)
+- Nithi Muthu Saravanan — Co-Business Operations Lead (Lead)
+
+**Chassis**
+
+- Sam Utley — Chassis Lead (Lead)
+- Colin Peden — Head of Composites R+D
+- Jason Fernando — Mechanical Design Engineer - Chassis
+- Khayaam Waris — Mechanical Design Engineer - Chassis
+- Phebe Arthurs — Mechanical Design Engineer - Chassis
+
+**Electrical Systems**
+
+- Brendan Ind — Head of Electrical Systems (Lead)
+- Ibraheem Rodrigues — Head of Tractive System (Lead)
+- Ben Broadbent — Telemetry Hardware & Software Design
+- Owen Harms — Accumulator Mechanical Lead
+- Euan Bell — Performance Telemetry
+- Eugine Levinson — Electronics & PCB Design
+- Jake Stuart — Electronics & PCB Design
+- Julianne Permo — PCB Design
+- Kaan-Luka Atacan — PCB Design
+- Michael Pagliuca — PCB Design
+- Sarp Balaban — Accumulator Mechanical Engineer
+- Seb Hall — ECU Software and Controls Lead
+
+**Equality, Diversity and Inclusion**
+
+- Erin Grosvenor — EDI Champion
+- Preston Whiteman — AI EDI Champion
+
+**Management**
+
+- Oliver Johnson — Technical Director (Lead)
+- Stephanie Hobeika — Team Leader (Lead)
+- Vincent Cavailhes — Programme Manager (Lead)
+
+**Marketing and Outreach**
+
+- Torey Boss — Marketing Lead (Lead)
+- Atyantika Tomar — Outreach Events Lead (Lead)
+- Angelina Nasser — TikTok Admin
+- Chloe Downer — Instagram Admin
+- Lewys Dafydd — LinkedIn Admin
+- Mollie Gillham — Instagram Admin
+- Sahira Prasai — TikTok Admin
+- Stuart Baxter — Newsletter Admin
+- Tom Cox — LinkedIn Admin
+- Tom Heaton — Website Admin
+
+**Mechanical Design**
+
+- Huw Williams — Mechanical Design Lead (Lead)
+- Liam O'Hare — Brake System Engineer
+- Michael Palmer — Wishbone Designer
+- Alex Peacock — FEA Engineer
+- Cieran Gifford — Steering Designer
+- Dafydd Stephens — Dynamics Designer
+- Ellie Finnegan — Carbon Suspension R&D
+- Hayden Hill — Dynamics Designer
+- Hedi Fakhfakh — Dynamics Designer
+- Jesse Doorgeest — Drivetrain Design Engineer
+- Josh Mobsby — Gearbox Verification Engineer
+- Khayaam Waris — Mechanical R&D Lead
+- Ola Werring — Wishbone Designer
+- Xin Lin — Steering Designer
+
+**Sponsorship**
+
+- Oli Sargent — Sponsorship Manager (Lead)
+
+**Vehicle Dynamics**
+
+- Oliver Johnson — Vehicle Dynamics Lead (Lead)
+- Liam O'Hare — Brakes Engineer
+- Pavel Yasko — Suspension Engineer
+- Raphael Gibberd — Simulation Engineer
+- Tiago Espanha — Tyres Engineer
+- Dorian Sfeir — Simulation Engineer
+- Josh Mobsby — Suspension Engineer
+
+### 2025 Team
+
+**Aero**
+
+- Alexander Crisan — Aero Lead (Lead)
+- Oliver Zilli — Cooling systems engineer
+- Emanuel Bakcsi — Aerostructures and Composites Engineer
+
+**Artificial Intelligence**
+
+- Seb Hall — TBReAI Lead - Control Systems & Integration Lead (Lead)
+- Mia (Xiaotong) Tan — LIDAR Lead
+- Nikhil Anisetti — Object Detection Lead
+- Roberta Griffiths — SLAM Lead
+- Ronald Piku — Path Planning Lead
+
+**Business Operations**
+
+- Audrey Raguin — Co-Business Operations Lead (Lead)
+- Emma Dickson — Co-Business Operations Lead (Lead)
+- Leo Sagal — Business Operations Team Member
+- Madison Tregonning — Business Operations Team Member
+- Mary Weir — Business Operations Team Member
+- Lucas Coelho — Business Operations Team Member
+
+**Chassis**
+
+- Federica La Scala — Chassis Lead (Lead)
+- Alex Tryka — Chassis Engineer
+- Ben Bowles — Chassis Mechanical Designer
+- Callum Hallworth — Chassis Structures Designer
+- Charles Dalgleish — Chassis Manufacturing Designer
+- Simeon Filipov — Chassis Integration Designer
+- Callum Donohue — Chassis Engineer
+
+**Composites**
+
+- Sam Snudden — Composites Lead (Lead)
+- Daniel Price — Composite Engineer
+- Het Shah — Composite Engineer
+- James de Lisle — Composite Engineer
+- Jason Tan — Composite Engineer
+
+**Driver Environment**
+
+- Karolis Banys — Lead (Lead)
+- Miles Dawson — Design & Build Engineer
+
+**Electronics**
+
+- Alex Cucchiara — Head of Electrical Systems (Lead)
+- Brendan Ind — Telemetry Lead
+- Ellie Harrington — Integration Engineer
+- Amy Freedman Kinshuck — Vehicle Systems Engineer
+- Haydar Kaya — Electrical Engineer
+- James Cicigoi — Electrical Engineer
+- Rio Hyska — Electrical Engineer
+
+**Management**
+
+- Abbey Marsden — Team Leader (Lead)
+- Daniel Perez Thomson — Technical Director (Lead)
+- Stephanie Hobeika — Programme Manager
+
+**Marketing**
+
+- Chiara Marquet — Marketing Lead (Lead)
+- Michelle Stejskalova — Co TikTok Admin
+- Millie Watson — Instagram Admin
+- Priya Nath — NewsLetter Admin
+- Sasha Key — Co TikTok Admin
+- Torey Boss — Marketing Team Member
+- Ishika Goel — Website Admin
+- Tom Heaton — Website Admin
+
+**Powertrain**
+
+- Sam Mutton — Lead (Lead)
+- Pavel Yasko — Powertrain Engineer
+
+**Statics**
+
+- Arhyam Jain — Static Events Team Member
+- Benjamin Fall — Static Events Team Member
+- Leea Frangopol — Static Events Team Member
+- Nithi Muthu Saravanan — Cost and Manufacturing Lead
+
+**Vehicle Dynamics**
+
+- Ivan Chan — Lead (Lead)
+- Axel Slijepcevic — Tyre Performance Lead
+- Dorian Sfeir — Vehicle Simulations Lead
+- Huw Williams — Vehicle Dynamicist
+- Kyle Carpenter — Mechanical Design Engineer
+- Oli Johnson — Kinematics Lead
+- Simon Fox — Outboard Lead
+- Yevgeny Kogan — Brakes Lead
+- Alex Fong — Mechanical Design Engineer
+
+### 2024 Team
+
+**Aerodynamics**
+
+- Imran Choudhury
+- Jamie Bradshaw
+- Jamie Wilson
+
+**Bambini**
+
+- Alain Kesterlian
+- Amy Sceri
+- Callum Donohue
+- Charlie Roberts
+- Enrique Guau
+- Simeon Filipov
+- Tbre2-13
+- Tbre2-14
+- Tbre2-42
+- Tbre2-45
+- Tbre2-55
+- Tbre2-90
+
+**Chassis**
+
+- Mario Morel
+
+**Cost**
+
+- Bakr Al-Derzi
+
+**Driver Environment**
+
+- Jesse Doorgeest
+- Khayaam Waris
+- Vincent Cavailhes
+
+**Electrical**
+
+- Abigail Adrian
+- Alexander Cucciara
+- Amy Kinshuck
+- Euan Bell
+- Eugene Levinson
+- Ibraheem Rodrigues
+- James White
+- Owen Harms
+- Tommy Lin
+
+**Marketing**
+
+- Audrey Raguin
+- Benjamin Fall
+- Chiara Marquet
+- Emma Dickinson
+- Harriet Lamb
+- James Wainwright
+- Madison Tregonning
+- Megan Galloway
+- Oskar Chu
+
+**Powertrain**
+
+- Abbey Marsden
+- Miles Dawson
+- Oliver Zilli
+- Samuel Mutton
+
+**Team Management**
+
+- Alexandra Sharankova
+- Alexandre About
+
+**Vehicle Dynamics**
+
+- Daniel Perez Thomson
+- Ivan Chan
+- Jasmine Presho
+- Josh Mobsby
+
+### 2023 Team
+
+**Aerodynamics**
+
+- Imran Choudhury — Co-Head of Aerodynamics
+- Jamie Bradshaw — Co-Head of Aerodynamics
+
+**Business Operations**
+
+- Abigail Adrian — Marketing Lead
+- Chiara Marquet — Marketing Team Member
+- Izumi Okuyama — Sponsorship Lead
+- James Wainwright — Head of Business Operations
+- Kate Kennedy — Logistics Member & Manufacturing Engineer
+- Oskar Chu — Logistics Lead
+
+**Chassis**
+
+- Aaron Lopez — Composites Lead
+- Federica La Scala — Chassis Engineer
+- Joao Maria Jorge — Head of Chassis
+- Joseph Teckman — Chassis Engineer
+- Lucia Juanas-Crowe — Structural Engineer
+- Mario Morel — Structural Engineer
+- Sam Snudden — Chassis Engineer
+- Simeon Filipov — Chassis Engineer
+
+**Cost & Manufacturing**
+
+- Mustafa Bakr Al-Derzi — Cost & Manufacturing
+
+**Driver Environment**
+
+- Jesse Doorgeest — Driver Environment Engineer
+- Vincent Morel Cavailhes — Driver Environment Engineer
+- Khayaam Waris — Driver Environment Engineer
+
+**Electrical**
+
+- Ibraheem Rodrigues — Head of Electrical Systems
+- James White — Electrical Integration Engineer
+- Owen Harms — Electrical Integration Engineer
+- Tommy Lin — Electronic Engineer
+- Eugene Levinson — Embedded Engineer
+
+**Faculty Advisors**
+
+- Dr. Benjamin Metcalfe
+- Dr. Christopher Vagg
+- Dr. Jonathan Graham-Harper Cater
+- Dr. Pedram Asef
+
+**Management**
+
+- Alexandra Sharankova — Team Principal
+- Alexandre About — Technical Director
+
+**Powertrain**
+
+- Abbey Marsden — Powertrain Lead - Transmission
+- Sam Mutton — Powertrain Lead - Traction
+
+**Vehicle Dynamics**
+
+- Daniel Pérez Thomson — Vehicle Dynamics Engineer
+- Ivan Chan — Vehicle Dynamics Engineer
+- Josh Mobsby — Vehicle Dynamics Engineer
+
+### 2022 Team
+
+**Aerodynamics**
+
+- Callum Hallworth
+- Jacob Collinson
+- James Wilson
+
+**Chassis**
+
+- Ben Liddington — Head of Chassis
+
+**Driverless**
+
+- James Macrae
+- Onish Sutradhar — Head of AI Pipeline Development
+- Ricardo Pradi Barbosa
+
+**Electrical**
+
+- David Cleland
+- Glen Chadburn — Head of Electrical Systems
+- Harley Mak
+- Luke Crutchley — Head of Electrical Powertrain Development
+
+**Faculty Advisors**
+
+- Dr. Benjamin Metcalfe
+- Dr. Christopher Vagg
+- Dr. Jonathan Graham-Harper-Cater
+- Dr. Joseph Flynn
+- Dr. Yunjie Gu
+- Prof. Peter Wilson
+
+**Management**
+
+- Adam Meyohas — AI Team Principal
+- Akshay Khanna — Team Principal
+- Eddie Waggot — Technical Director
+
+**Powertrain**
+
+- James Wilton — Head of Powertrain
+
+**Vehicle Dynamics**
+
+- Ben Shellie
+- Liam Neary — Head of Vehicle Dynamics
+- Scott van Breda — Driver
+
+### 2021 Team
+
+**AI - Driverless**
+
+- Adam Meyohas
+- Harry Crocker — AI & Driverless Lead
+
+**Electrical and Electronics**
+
+- Alex Kastrinos — ECU programmer - Electrical Testing Officer
+- Davide Corridi
+- Glen Chadburn — Low Voltage Lead
+- Ross Hamer — Electrical Integration Lead
+- Taylor De Caux — Tractive system Lead
+
+**Management**
+
+- Aled Griffiths — Chief Engineer
+- Alex Dyer — Electrical Lead
+- Arda Cayonlu
+- Callum Anderson
+- Federica Arcidiaco — Build Manager
+- Harry Green — Mechanical Integration Lead
+- Itziar Pomares Chavarri — Chassis Lead
+- James Beumee — Mechanical Testing Officer
+- Mostafa Ismail — Project Manager
+- Pablo Penalosa — Vehicle Dynamics Lead
+- Theo Jeremiah — Aerodynamics Lead
+
+### 2019 Team
+
+**Artificial Intelligence**
+
+- Eduard Gascon — Autonomous Systems Project Manager
+
+**Commercial**
+
+- Bassel Ghazali — Photography
+- Fred Millman — Web Development/Design
+- Samuel Akinwumi — Photography/Videography
+- Sofya Morozova — Sponsorships
+
+**Electrical and Electronics**
+
+- Alex Dyer — Electronics
+- Charlotte Deleay — Sensors and Telemetry
+- Glen Chadburn — Electronics
+- Oliver Wilkins — Electrical Lead
+- Pete Walker — Powertrain Lead
+- Uvindu Wijesinghe — Driverless Technical Manager, Electronics, Dashboard
+
+**Management**
+
+- Afkar Ansar — Business Manager
+- Ben Carretta — Technical Manager
+- Kieran Shopland — Project Manager
+
+**Mechanical**
+
+- George Bridgewater — Spaceframe
+- Joe Capper — Integration Engineer
+- Kieron Holt — Safety Lead
+- Natalie Kyprianou — Battery Lead
+- Oliver Hopkinson — Aerodynamics Lead
+- Sam Gray — Vehicle Dynamics Lead
+- Thomas Coxon — Nose Cone, Mechanical
+- Valerio Pellicciari — Chassis Lead
+- William Taylor — Vehicle Dynamics
+
+### 2018 Team
+
+**Electrical and Electronics**
+
+- Aaron Cocker — Electrical
+- Ben Carretta — Electrical
+- Christopher Bull — Electrical
+- George Balkwill — Electrical Lead
+- Joseph Capper — Electrical
+- Kieran Shopland — Electrical
+- Oliver Wilkins — Electrical
+- Uvindu Wijesinghe — Electrical
+- Ben Warwick-Champion — Electrical
+
+**Integration**
+
+- Alexandre Dos Santos Aranda — Integration
+- Bassel Ghazali — Integration
+- Ivan Liono — Integration
+- Karim Ahmed Abdou Elsayed — Integration
+- Kieron Holt — Integration
+
+**Management**
+
+- Elizabeth Maclennan — Project Manager
+- Jacob Clapp — Technical Lead
+- James Raikes — Media & Marketing Manager
+- Tom Dormand — Accumulator Lead, Integration Lead
+- Will Minter-Kemp — Business Manager, Control Systems Lead
+
+**Mechanical**
+
+- Colin Willows — Powertrain Lead
+- Daniel Palmer — Chassis Lead
+- Ignacio Montero — Mechanical
+- Inigo Monreal — Mechanical
+- Natalie Kyprianou — Mechanical
+- Samuel Gray — Mechanical
+- Simon Julyan — Powertrain Lead
+- Aidan Rosling — Mechanical
+- Ambarish Satheesh — Mechanical
+- Eduard Gascon Arnal — Mechanical
+
+### 2017 Team
+
+**Main**
+
+- Alex Stokoe — Electrical Lead
+- Antonio Pessanha — Marketing/Media Manager
+- Assad George Farhat — Software Lead
+- Gregory Tzermias — Mechanical Lead
+- Stefano Dallavalle — Project Manager
+
+## Sponsors
+
+- Llewellins Gears (Title Sponsor)
+- Handling Concepts (Platinum Sponsors)
+- Mewburn Ellis (Platinum Sponsors)
+- PRF (Platinum Sponsors)
+- Vector (Platinum Sponsors)
+- Zuken (Platinum Sponsors)
+- Airtech (Gold Sponsors)
+- Altium (Gold Sponsors)
+- Apogee Industries (Gold Sponsors)
+- Cross Manufacturing (Gold Sponsors)
+- Dontyne (Gold Sponsors)
+- Emkay (Gold Sponsors)
+- Procter & Chester (Platinum Sponsors)
+- Racelogic (Gold Sponsors)
+- Schaeffler (Gold Sponsors)
+- About:Energy (Silver Sponsors)
+- Acre Accountancy (Silver Sponsors)
+- Anaglyph (Silver Sponsors)
+- ATEC (Silver Sponsors)
+- BES Group Oil Sampling (Silver Sponsors)
+- Eurocircuits (Silver Sponsors)
+- European Springs and Pressings (Silver Sponsors)
+- Frewer Engineering (Silver Sponsors)
+- Rotork (Silver Sponsors)
+- Sharc (Silver Sponsors)
+- Wurth Elektronik (Silver Sponsors)
+- 3Dconnexion (Bronze Sponsors)
+- Accu (Bronze Sponsors)
+- AMKmotion (Bronze Sponsors)
+- Belzona (Bronze Sponsors)
+- Bender UK (Bronze Sponsors)
+- bigHead Fasteners (Bronze Sponsors)
+- Code A Weld (Bronze Sponsors)
+- creat3d (Bronze Sponsors)
+- Demon Tweeks (Bronze Sponsors)
+- Easy Composites (Bronze Sponsors)
+- EDS (Bronze Sponsors)
+- H&R Springs (Bronze Sponsors)
+- Hitachi (Bronze Sponsors)
+- igus (Bronze Sponsors)
+- Isabellenhutte/Rhopoint (Bronze Sponsors)
+- Kellaway (Bronze Sponsors)
+- Metal Finishings Ltd (Bronze Sponsors)
+- Motion Applied (Bronze Sponsors)
+- NCC (Bronze Sponsors)
+- ProCarve (Bronze Sponsors)
+- Quadrise (Bronze Sponsors)
+- Relec (DCDC) (Bronze Sponsors)
+- Total Bathrooms (Bronze Sponsors)
+- WMG Cell Acquisition (Bronze Sponsors)
+- The Bugatti Trust (Special thanks to)
+- Multimatic (Special thanks to)
+
+## Recruitment
+
+### Mechanical Analysis & FEA Specialists — Mechanical Design
+
+Develop and maintain FEA models to validate mechanical component performance across the car. Improve fidelity of simulations (mesh refinement, boundary condition accuracy, correlation with physical data). Support subsystem designers (wishbones, dynamics, steering) by providing simulation insights and verification for competition documentation.
+
+## Blog
+
+### First Place at Formula Student Germany
+
+January 15, 2024 · Competitions
+
+<p class="text-lg leading-relaxed mb-6">
+      We are thrilled to announce our remarkable victory at Formula Student Germany 2023! This achievement represents countless hours of dedication, innovation, and teamwork from every member of TBRE Racing.
+    </p>
+
+    <h2 class="text-2xl font-bold mb-4 mt-8">The Competition</h2>
+    <p class="leading-relaxed mb-6">
+      Formula Student Germany is one of the most prestigious engineering competitions in the world, attracting top teams from universities across the globe. This year's event saw over 100 teams competing across various categories.
+    </p>
+
+    <div class="my-8">
+      <img src="/car.jpg" alt="Team celebration" class="rounded-lg w-full" />
+      <p class="text-sm text-zinc-600 mt-2">The team celebrating our victory at Hockenheimring</p>
+    </div>
+
+    <h2 class="text-2xl font-bold mb-4">Key Achievements</h2>
+    <ul class="list-disc list-inside space-y-2 mb-6 text-zinc-600">
+      <li>1st Place Overall in Electric Vehicle Class</li>
+      <li>1st Place in Engineering Design Event</li>
+      <li>2nd Place in Acceleration Event</li>
+      <li>3rd Place in Endurance Event</li>
+    </ul>
+
+    <p class="leading-relaxed mb-6">
+      Our success in the Engineering Design event particularly highlighted the innovative solutions we implemented in our 2023 car, including our advanced aerodynamics package and sophisticated battery management system.
+    </p>
+
+    <blockquote class="border-l-4 border-tbre-blue pl-4 italic my-8">
+      "This victory is a testament to the incredible dedication of our entire team and the unwavering support from our sponsors and university." - Alex Thompson, Team Principal
+    </blockquote>
+
+### Introducing TBRe-23: Our Most Advanced Car Yet
+
+December 20, 2023 · Technology
+
+<p class="text-lg leading-relaxed mb-6">
+      We are thrilled to announce our remarkable victory at Formula Student Germany 2023! This achievement represents countless hours of dedication, innovation, and teamwork from every member of TBRE Racing.
+    </p>
+
+    <h2 class="text-2xl font-bold mb-4 mt-8">The Competition</h2>
+    <p class="leading-relaxed mb-6">
+      Formula Student Germany is one of the most prestigious engineering competitions in the world, attracting top teams from universities across the globe. This year's event saw over 100 teams competing across various categories.
+    </p>
+
+    <div class="my-8">
+      <img src="/car.jpg" alt="Team celebration" class="rounded-lg w-full" />
+      <p class="text-sm text-zinc-600 mt-2">The team celebrating our victory at Hockenheimring</p>
+    </div>
+
+    <h2 class="text-2xl font-bold mb-4">Key Achievements</h2>
+    <ul class="list-disc list-inside space-y-2 mb-6 text-zinc-600">
+      <li>1st Place Overall in Electric Vehicle Class</li>
+      <li>1st Place in Engineering Design Event</li>
+      <li>2nd Place in Acceleration Event</li>
+      <li>3rd Place in Endurance Event</li>
+    </ul>
+
+    <p class="leading-relaxed mb-6">
+      Our success in the Engineering Design event particularly highlighted the innovative solutions we implemented in our 2023 car, including our advanced aerodynamics package and sophisticated battery management system.
+    </p>
+
+    <blockquote class="border-l-4 border-tbre-blue pl-4 italic my-8">
+      "This victory is a testament to the incredible dedication of our entire team and the unwavering support from our sponsors and university." - Alex Thompson, Team Principal
+    </blockquote>
+
+### The Future of Electric Racing
+
+December 10, 2023 · Innovation
+
+<p class="text-lg leading-relaxed mb-6">
+      We are thrilled to announce our remarkable victory at Formula Student Germany 2023! This achievement represents countless hours of dedication, innovation, and teamwork from every member of TBRE Racing.
+    </p>
+
+    <h2 class="text-2xl font-bold mb-4 mt-8">The Competition</h2>
+    <p class="leading-relaxed mb-6">
+      Formula Student Germany is one of the most prestigious engineering competitions in the world, attracting top teams from universities across the globe. This year's event saw over 100 teams competing across various categories.
+    </p>
+
+    <div class="my-8">
+      <img src="/car.jpg" alt="Team celebration" class="rounded-lg w-full" />
+      <p class="text-sm text-zinc-600 mt-2">The team celebrating our victory at Hockenheimring</p>
+    </div>
+
+    <h2 class="text-2xl font-bold mb-4">Key Achievements</h2>
+    <ul class="list-disc list-inside space-y-2 mb-6 text-zinc-600">
+      <li>1st Place Overall in Electric Vehicle Class</li>
+      <li>1st Place in Engineering Design Event</li>
+      <li>2nd Place in Acceleration Event</li>
+      <li>3rd Place in Endurance Event</li>
+    </ul>
+
+    <p class="leading-relaxed mb-6">
+      Our success in the Engineering Design event particularly highlighted the innovative solutions we implemented in our 2023 car, including our advanced aerodynamics package and sophisticated battery management system.
+    </p>
+
+    <blockquote class="border-l-4 border-tbre-blue pl-4 italic my-8">
+      "This victory is a testament to the incredible dedication of our entire team and the unwavering support from our sponsors and university." - Alex Thompson, Team Principal
+    </blockquote>
+
+### Official 2016/17 Project Launch
+
+October 1, 2016 · History
+
+We were thrilled to present our plans for 2017 to a group of approximately 70 students from a range of disciplines: mechanical engineering, electrical engineering, IMEE (integrated mechanical and electrical engineering) and business. This was also an opportunity to inaugurate our brand new build room!
+
+### Recruiting on Campus for TBRe17
+
+September 1, 2016 · History
+
+TBRe's core members returned to Bath before the beginning of the academic year to promote the team during Fresher's week. We were delighted to showcase TBRe16 in front of the library and talk about our project!
+
+### TBRe16 Goes to FSUK at Silverstone
+
+July 1, 2016 · History
+
+After months of work and many sleepless nights, we made it to Silverstone! TBRe16 did not race but we collected valuable feedback that will be transferred onto TBRe17. We can't wait to come back.
+
+### TBRe16's First Rolling Test
+
+May 1, 2016 · History
+
+A bare chassis. An empty car park. A driver. These were the ingredients for TBRe16's first rolling test at the University of Bath.
+
+### Building an Electric Go-Kart
+
+January 1, 2016 · History
+
+The project began with the development of an electric go-kart. Essentially, the aim was to replace the kart's original petrol engine with an electric motor. This allowed the team to gain a practical working knowledge of the electric powertrain before moving onto the real car!

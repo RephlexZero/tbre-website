@@ -1,0 +1,1 @@
+globalThis.process??={},globalThis.process.env??={};import{n as e,r as t,t as n}from"./motion.B5yKGIVr.js";var r=!1;function i(){t(),n(),r||=(e(),!0)}document.addEventListener(`astro:page-load`,i);

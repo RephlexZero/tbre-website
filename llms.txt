@@ -1,0 +1,42 @@
+# Team Bath Racing Electric
+
+> Team Bath Racing Electric (TBRe) is a student-run Formula Student team at the University of Bath that designs, builds, and races a fully electric single-seater racing car.
+
+Formula Student is the world's largest student engineering competition, and TBRe has competed as an electric team since 2015, racing at Silverstone and internationally.
+
+## Pages
+
+- [Home](https://teambathracingelectric.com/): Overview of Team Bath Racing Electric
+- [Cars](https://teambathracingelectric.com/cars): Every car TBRe has built, from 2016 to 2026
+- [Team](https://teambathracingelectric.com/team): The current 2026 team roster
+- [Recruitment](https://teambathracingelectric.com/recruitment): Open roles for joining the team
+- [Sponsors](https://teambathracingelectric.com/sponsors): Current sponsors and sponsorship information
+- [Gallery](https://teambathracingelectric.com/gallery): Photos from across the team's history
+- [Blog](https://teambathracingelectric.com/blog): News and updates from the team
+- [Crowdfunding](https://teambathracingelectric.com/crowdfunding): Support the current season's crowdfunding campaign
+
+## Past Teams
+
+- [2025 Team](https://teambathracingelectric.com/team/2025)
+- [2024 Team](https://teambathracingelectric.com/team/2024)
+- [2023 Team](https://teambathracingelectric.com/team/2023)
+- [2022 Team](https://teambathracingelectric.com/team/2022)
+- [2021 Team](https://teambathracingelectric.com/team/2021)
+- [2019 Team](https://teambathracingelectric.com/team/2019)
+- [2018 Team](https://teambathracingelectric.com/team/2018)
+- [2017 Team](https://teambathracingelectric.com/team/2017)
+
+## Blog
+
+- [First Place at Formula Student Germany](https://teambathracingelectric.com/blog/blog-post-1): Our team's journey to victory at one of Europe's most prestigious competitions...
+- [Introducing TBRe-23: Our Most Advanced Car Yet](https://teambathracingelectric.com/blog/blog-post-2): A deep dive into the innovative features and technology behind our latest racing car...
+- [The Future of Electric Racing](https://teambathracingelectric.com/blog/blog-post-3): How our team is pushing the boundaries of electric vehicle technology in motorsport...
+- [Official 2016/17 Project Launch](https://teambathracingelectric.com/blog/2016-10-project-launch): We presented our 2017 plans to around 70 students from across the university and inaugurated our brand-new build room.
+- [Recruiting on Campus for TBRe17](https://teambathracingelectric.com/blog/2016-09-recruitment-campus): TBRe's core members returned to Bath to promote the team during Fresher's week, showcasing TBRe16 outside the library.
+- [TBRe16 Goes to FSUK at Silverstone](https://teambathracingelectric.com/blog/2016-07-fsuk-silverstone): After months of work and many sleepless nights, TBRe16 made it to Silverstone for Formula Student UK.
+- [TBRe16's First Rolling Test](https://teambathracingelectric.com/blog/2016-05-first-rolling-test): A bare chassis, an empty car park and a driver — the ingredients for TBRe16's first rolling test at the University of Bath.
+- [Building an Electric Go-Kart](https://teambathracingelectric.com/blog/2016-01-electric-go-kart): Where it all began — converting a petrol go-kart to electric to learn the powertrain before building the real car.
+
+## Optional
+
+- [Full site contents](https://teambathracingelectric.com/llms-full.txt): Complete text of every page and content entry on the site
